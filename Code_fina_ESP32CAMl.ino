@@ -5,9 +5,9 @@
 
 
 #include <TridentTD_LineNotify.h>
-#define SSID        "GOLF"
-#define PASSWORD    "0880168719" 
-#define LINE_TOKEN  "Z1VOVdYtJTxGIqVaivJay4x2uoktg8mtn62tqnMY2sB" 
+#define SSID        "....."
+#define PASSWORD    "......" 
+#define LINE_TOKEN  "......." 
 
 // Pin definition for CAMERA_MODEL_AI_THINKER
 #define PWDN_GPIO_NUM     32
